@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code:
-git clone https://github.com/JAYXAD/python-expense-tracker.git
+git clone https://github.com/Varhneyprachi/Python-Expense-Tracker)\
 cd python-expense-tracker
 Install dependencies:
 Ensure you have Python installed. Tkinter and SQLite are typically included with Python distributions.
